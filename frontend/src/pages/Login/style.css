@@ -9,6 +9,10 @@ body{
     overflow: hidden;
 }
 
+.MuiLink-underlineHover {
+	display: none;
+}
+
 .wave{
 	position: fixed;
 	bottom: 0;
